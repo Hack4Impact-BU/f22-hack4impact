@@ -11,7 +11,7 @@
 ## Catalog
 
 ### react-part-2-starter-code - react app
-This is the starter code for the calculator to follow along
+This is the starter code for the calculator to follow along. Please go to this link for the react-starter-code: https://github.com/macyso12/react-starter-code
 
 ### react-part-2 - Calculator
 This is the calculator complete code that is made by Krish 
