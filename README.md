@@ -37,3 +37,6 @@ This is the calculator complete code that is made by Krish
 
 ### 7-firebase-todoApp-workshop - To Do Application
 This is the complete code to a ToDo Application linked with Firebase with firestore realtime database
+
+### 7.1-firebase-loginApp-workshop - Login Application Workshop
+This is the complete code to a Login Application using Firebase authentication and linked it with the frontend and the backend of the application.
