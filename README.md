@@ -10,8 +10,27 @@
 
 ## Catalog
 
+
+### 1-html-workshop - Website
+This only has the barebone on the html on a personal website
+
+### 2-css-workshop - Website
+This added styling to the html workshop
+
+### 3-js-workshop - Counter
+This is the 3rd workshop where it added some javascript functions 
+
+### 4-api-workshop - Pokedex
+This is a workshop from Spring 2023 - where we created a pokedex and fetching the pokemon from the api 
+
+### 4-api-workshop - Random
+This is the workshop from Fall 2023 - where we created a to do random things and fetching the list of thing to do from an api
+
+### 5-react-part-1-worshop - Counter
+This, we recreate the counter from the javascript workshop into a react base instead of html+css
+
 ### react-part-2-starter-code - react app
 This is the starter code for the calculator to follow along. Please go to this link for the react-starter-code: https://github.com/macyso12/react-starter-code
 
-### react-part-2 - Calculator
+### 6-react-part2-workshop - Calculator
 This is the calculator complete code that is made by Krish 
