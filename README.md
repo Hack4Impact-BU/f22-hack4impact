@@ -40,3 +40,6 @@ This is the complete code to a ToDo Application linked with Firebase with firest
 
 ### 7.1-firebase-loginApp-workshop - Login Application Workshop
 This is the complete code to a Login Application using Firebase authentication and linked it with the frontend and the backend of the application.
+
+### 8-node-RESTful-api-workshop - Build a RESTful API workshop
+This is an application where it connects with the backend, and post and add and updated stuff.
