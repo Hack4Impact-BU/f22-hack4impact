@@ -35,6 +35,9 @@ This is the starter code for the calculator to follow along. Please go to this l
 ### 6-react-part2-workshop - Calculator
 This is the calculator complete code that is made by Krish 
 
+### 7-mongoDB-workshop - TBC
+This is the complete code that is made by Marielle 
+
 ### 7-firebase-todoApp-workshop - To Do Application
 This is the complete code to a ToDo Application linked with Firebase with firestore realtime database
 
