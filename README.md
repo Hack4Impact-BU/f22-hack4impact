@@ -35,14 +35,17 @@ This is the starter code for the calculator to follow along. Please go to this l
 ### 6-react-part2-workshop - Calculator
 This is the calculator complete code that is made by Krish 
 
-### 7-mongoDB-workshop - TBC
-This is the complete code that is made by Marielle 
-
 ### 7-firebase-todoApp-workshop - To Do Application
 This is the complete code to a ToDo Application linked with Firebase with firestore realtime database
 
 ### 7.1-firebase-loginApp-workshop - Login Application Workshop
 This is the complete code to a Login Application using Firebase authentication and linked it with the frontend and the backend of the application.
 
-### 8-node-RESTful-api-workshop - Build a RESTful API workshop
+### 7.1-firebase-dataList - Insert, Update, Delete w/ Firebase Workshop
+This is the complete code that is made by Usman. 
+
+### 8-mongoDB-workshop - TBC
+This is the complete code that is made by Marielle .
+
+### 9-node-RESTful-api-workshop - Build a RESTful API workshop
 This is an application where it connects with the backend, and post and add and updated stuff.
